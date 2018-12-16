@@ -1,0 +1,233 @@
+Request Completed http://r-exercises.com/start-here-to-learn-r/
+Parser Completed
+
+Vectors and sequences:
+      Logical vectors and operators
+      Missing Values
+      Character vector exercises
+      Index vectors
+
+Object modes and attributes:
+      Mode exercises
+      Practical uses of R objects: Some examples
+
+Factors:
+      Factor Exercises
+      Facing the Facts about Factors
+      Fighting Factors with Cats
+      Working with Factors
+
+Arrays and Matrices:
+      Array exercises
+      Bind exercises
+      Matrix operations
+
+Lists and dataframes:
+      Know your lists
+      Merging Dataframes Exercises
+      Accessing Dataframe Objects Exercises
+      Apply functions to lists
+
+Data Structures:
+      Data Structures
+
+Importing data:
+      Reading delimited data
+      Scan exercises
+      R-SQL
+      Web scraping
+      Easy Web Scraping With Rvest
+      Harvesting Data from the Web with Rvest
+      Tidy Data Reading
+
+Tables:
+      data exploration with table
+      Complex tables
+      Cross Tabulation with Xtabs
+
+Data manipulation:
+      Get-your-stuff-in-order-exercises
+      Basic operations
+      Summary statistics with aggregate()
+      Data Shape Transformation With Reshape()
+      Interactive Subsetting exercises
+      Reshape 2 exercises
+      Efficient data processing with apply
+      Optimize data processing with sapply
+      Multivariate apply
+      Select and query
+      Let’s get started with dplyr
+      dplyr basics: More smooth data exploration
+      dplyr non-standard evaluation
+      Melt and Cast The Shape of Your Data-Frame
+
+Reproducible reporting:
+
+Probability distributions:
+      Combinations exercises
+      Lets Begin with something sample
+      Generating data
+      Probability Functions – Beginner
+      Probability Functions – Intermediate
+      Probability Functions – Advanced
+
+Loops and conditional execution:
+      Loops in R
+
+Functions:
+      Higher order functions
+      User Defined Functions
+      Well-Behaved Functions
+
+Data visualization:
+      Start plotting data!
+      Customize a scatterplot exercises
+      Replicating plots: Boxplot
+      Advanced base graphics
+      Graphics parameters exercises
+      3D plotting exercises
+      GGplot Drilling
+      Practice Your ggplot Skills
+      Prettify your Shiny Tables with DT
+      Modularize your Shiny Apps
+      Shapefiles
+      Getting started with Plotly: basic plots
+      Plotly: advanced plots and features
+      Multi-panel Graphics
+      Spatial Analysis with ggmap
+      Visual Data Exploration
+
+Statistical Testing:
+      Independent t-test
+      Paired t-test
+      Nonparametric tests
+      Frequency and chi-square test for independence
+
+Experimental Design and Analysis:
+      One way ANOVA in R
+      Two way ANOVA in R
+      Repeated measures ANOVA in R
+      One Way MANOVA
+      Experimental Design
+      Bayesian A/B Testing Made Easy
+
+Statistics:
+      Examining data
+      Evaluate your Model with R
+      Recursive partitioning and regression trees
+      Intro to FFTree
+      Exploratory Factor Analysis
+      Hierarchical clustering
+      Density-based Clustering
+      K-Means Clustering in R
+      Correlation and Correlogram
+      Tidy Modeling
+      Tidy Model Results
+
+Regression:
+      Predicting Housing Prices with Linear Regression
+      Generalized Linear Functions – Beginner
+      Logistic regression in R
+      Quantile regression
+      Lasso regression
+      Ridge regression
+      Calculating Marginal Effects
+      Polynomial Model in R – Study Case
+      Non-linear Models
+      Basic Generalized Models in Ecology
+
+Machine Learning:
+      Building a Neural Network Using the Iris Data Set
+      Call Center Productivity Boosting with ML
+
+Bayesian statistics:
+      MCMC for Bayesian Inference – Metropolis
+      MCMC for Bayesian Inference – Gibbs Sampling
+      Bayesian Inference – MCMC Diagnostics using coda
+      Bayesian Inference Using the MCMCglmm Package
+      MCMC Using Stan – An Introduction With The RStan Package
+      MCMC Using Stan – An Introduction With The RStanarm Package
+      MCMC Using Stan – Diagnostics with the Bayesplot Package
+      MCMC Using Stan – Visualization with the Shinystan Package
+
+Forecasting:
+      Time Series Exploration
+      Linear Trend and ARIMA Models
+      Exponential Smoothing
+      Multivariate Regression
+      ARIMAX model
+      Half Hourly Hydrological Dataset Analysis and Visualization
+      Resampling Time Series Datasets in Hydrology
+
+Investing:
+      Shares analysis using Quantmod package
+      using MANOVA to analysis the banking crisis
+      Analyzing Crypto-currency Data with R
+
+Parallel Computing:
+      Snowfall
+      Foreach and DoParallel
+      Snow and Rmpi
+
+Big Data:
+      Big Data Manipulation
+
+Tensorflow:
+      Tensorflow – Neural Network Training
+
+Coding:
+      Best practices while writing R code Exercises
+      Unit Testing in R using testthat
+      So You Think Your Code is Efficient
+      Style-Consistent Code: Exercises
+
+Geospatial data:
+      Advanced Raster Data
+
+Other:
+      Canada Labour Market: Future Perspectives
+      Canada Immigration: Where to Settle In?
+      Soccer data sparring: Scraping, merging and analyzing exercises
+      Basic R For Stata Users
+      Create and Format a Google Sheet Within R
+      Programmatically Creating Text Outputs
+      Numerical Analysis using R
+      Sending Emails from R
+      Applied Economic Analysis with R
+      Image Recognition With Google Vision API
+      Image processing
+      Word Embedding
+      Tidy Text Mining
+      UFC Analytics
+      Automating and Scheduling R Scripts in Windows: Tutorial
+
+Stand alone series: Data preparation made simple:
+      Descriptive analytics, Part 0: Data Exploration
+      Descriptive analytics, Part 1: Data Formatting
+      Descriptive analytics, Part 2: Data Imputation
+      Descriptive analytics, Part 3: Outlier Treatment
+      Descriptive analytics, Part 4: Data Manipulation
+      Descriptive analytics, Part 5: Data visualisation (continuous variables)
+      Descriptive analytics, Part 5: Data visualisation (categorical variables)
+      Descriptive analytics, Part 5: Data visualisation (spatial data)
+
+Stand alone series: Data Science for Doctors:
+      Data Science for Doctors, Part 1: Data Display
+      Data Science for Doctors, Part 2: Descriptive Statistics
+      Data Science for Doctors, Part 3: Distributions
+      Data Science for Doctors, Part 5: Cluster Analysis
+      Data Science for Doctors, Part 6: Variable Importance
+
+Stand alone series: Hacking statistics or: How I Learned to Stop Worrying About Calculus and Love Stats Exercises:
+      How I Learned to Stop Worrying About Calculus and Love Stats Exercises [part 1]
+      How I Learned to Stop Worrying About Calculus and Love Stats Exercises [part 2]
+      How I Learned to Stop Worrying About Calculus and Love Stats Exercises[part 3]
+      How I Learned to Stop Worrying About Calculus and Love Stats Exercises[part 4]
+      How I Learned to Stop Worrying About Calculus and Love Stats Exercises[part 5]
+      How I Learned to Stop Worrying About Calculus and Love Stats Exercises[part 6]
+      How I Learned to Stop Worrying About Calculus and Love Stats Exercises[part 7]
+      How I Learned to Stop Worrying About Calculus and Love Stats Exercises[part 8]
+      How I Learned to Stop Worrying About Calculus and Love Stats Exercises[part 9]
+
+Standalone Series: R for Hydrologists:
+      Seasonality and Trend Decomposition

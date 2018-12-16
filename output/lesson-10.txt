@@ -1,0 +1,156 @@
+Request Completed http://www.gibbon.se/Retailer/Map.aspx?SectionId=832
+Parser Completed
+
+Arken Zoo Odenplan      A
+Address: DjurEtt AB, Norrtullsgatan 21, 113 27 STOCKHOLM
+Openinghours: 10-18
+Phone: 08-305635
+Email: odenplan@arkenzoo.se
+Website: www.arkenzoo.se
+
+Djurkliniken Roslagstull
+Address: Valhallavägen 12 A, 114 22 STOCKHOLM
+Openinghours: 1000-1700
+Phone: 08-6125760
+Email:
+Website: www.djurklinikenroslagstull.se/
+
+Djurakuten I Stor-Stockholm
+Address: Kungstensgatan 58, 113 29 STOCKHOLM
+Openinghours:
+Phone: 08 54 54 14 91
+Email: info@djurakuten.se
+Website:
+
+Cats & Dogs Ab
+Address: Fixturen AB, Box 42020, 126 12 STOCKHOLM
+Openinghours:
+Phone: 08-396120
+Email: info@cats-dogs.se
+Website: www.cats-dogs.se/
+
+Hund & Kattboden Vasastan
+Address: OOZZ Trading AB, Odengatan 35, 113 51 STOCKHOLM
+Openinghours: 10-18.30 (10-16)
+Phone: 08-235000
+Email: info@hundokattboden.se
+Website: www.hundokattboden.se/
+
+Arken Zoo Kungsholmen      A
+Address: Kungs Zoo AB, Inedalsgatan 5, 112 33 STOCKHOLM
+Openinghours:
+Phone: 08-7248110
+Email: kungsholmen@arkenzoo.se
+Website: www.arkenzoo.se
+
+Dogstore Sweden Ab
+Address: Ringvägen 157, 116 31 STOCKHOLM
+Openinghours: 0700-1800
+Phone: 08-6444200
+Email: dogstore@comhem.se
+Website: www.dogstoore.se
+
+Iaa´S Food And Fashion For Pets Ab
+Address: Riddargatan 35, 114 57 STOCKHOLM
+Openinghours:
+Phone:
+Email:
+Website:
+
+Rådhusets Hund & Katt Ab
+Address: Katja Carlsson, Scheelegatan 10, 112 28 STOCKHOLM
+Openinghours: 11-18(11-15)
+Phone: 08-12350700
+Email: info@radhusetshk.se
+Website:
+
+Pets In Town & Urtrend Ab
+Address: Gröndalsvägen 29, Gröndalsvägen 29, 117 66 STOCKHOLM
+Openinghours: 1100-1800
+Phone: 08-7090918
+Email: order@petsintown.se
+Website:
+
+Sjöstadens Hund Och Katt
+Address: Hammarby Allé 177, 120 66 STOCKHOLM
+Openinghours: 10-19 (11-16/12-15)
+Phone: 08-7029080
+Email: info@sjostadenshundochkatt.se
+Website: www.sjostadenshundochkatt.se
+
+Arken Zoo Liljeholmen
+Address: Nybohovsbacken 40, 117 63 STOCKHOLM
+Openinghours:
+Phone:
+Email:
+Website:
+
+Djurcentret Stockholm Ab
+Address: Trekantsvägen 7B, 100 73 STOCKHOLM
+Openinghours:
+Phone: 08-7442710
+Email: ida.spångberg@djurgymnasiet.com
+Website:
+
+Ellios Hund & Katt
+Address: Peter Mitlin AB., Erik Dahlbergsgatan 18 nb., 115 32 STOCKHOLM
+Openinghours: 1100-1800
+Phone: 08-7830052
+Email: maddeellios@gmail.com
+Website: www.ellios.se/
+
+Stockholms Regiondjursjukhus
+Address: PAA05040, FE 533, 105 69 STOCKHOLM
+Openinghours: 8-18
+Phone: 08-50510200
+Email:
+Website:
+
+Sofor Pets Stockholm
+Address: Östgötagatan 26, 116 25 STOCKHOLM
+Openinghours: 10-19 Lö-10-17S12-17
+Phone: 08-6405556
+Email: tobbe@soforpets.sesoforpets@gmail.com
+Website: www.soforpets.se/
+
+Hornstulls Hund Och Katt Ab
+Address: Michael Holmström, Hornsgatan 182, 117 34 STOCKHOLM
+Openinghours: 1100-1400-1430-19
+Phone: 08-658 66 60
+Email: info@hornstullshundochkatt.se
+Website:
+
+Lillefots Hunddagis Hb
+Address: Vävar Johansgata 9, 120 68 STOCKHOLM
+Openinghours: 7-19
+Phone:
+Email:
+Website:
+
+Stockholms Regiondjursjukhus Ab
+Address: PAA05040, FE 533, 105 69 STOCKHOLM
+Openinghours:
+Phone: 08-390801
+Email:
+Website:
+
+Arken Zoo Odenplan    A
+Address: Norrtullsgatan 21, 113 27 STOCKHOLM
+Openinghours: 10-18
+Phone:
+Email:
+Website:
+
+Xl Zoo Söder
+Address: Folkungagatan 146, 116 30 STOCKHOLM
+Openinghours: 1000-1800
+Phone: 08-6429996
+Email:
+Website:
+
+Dogtag Hund & Katt
+Address: Maria skolgata 40, 118 53 STOCKHOLM
+Openinghours: Ti-Fr 11-1830 L11-15
+Phone: 08-7206750
+Email: lockner@swipnet.se
+Website: www.dogtag.se
